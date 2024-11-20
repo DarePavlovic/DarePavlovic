@@ -6,7 +6,7 @@ Software engineer
 
 I am a passionate and dedicated software developer whose journey began in high school, where I first discovered my love for coding. As a member of a science camp focused on computer engineering and computer science, I explored the fundamentals of programming and system design. This early experience led me to pursue a degree in Computer Engineering and Informatics at university, where I deepened my knowledge in software development, backend web development, and system databases. Currently, I am advancing my skills through a master's program in Software Engineering, working on complex projects that involve designing robust software systems and optimizing database performance. My expertise lies in backend development and system databases, and I am always eager to learn new technologies and tackle challenging problems. Let's connect and collaborate on innovative software solutions!
 
-* 🌍  I'm based in Belgrade
+* 🌍  I'm based in Belgrade, Serbia
 * ✉️  You can contact me at [darkopavlovicbc@gmail.com](mailto:darkopavlovicbc@gmail.com)
 
 ### Skills
