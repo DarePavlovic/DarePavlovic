@@ -23,4 +23,4 @@ I am a passionate and dedicated software developer whose journey began in high s
 
 ### Badges
 
-<a href="https://github.com/darePavlovic" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darePavlovic&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/darePavlovic" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darePavlovic&langs_count=4&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
